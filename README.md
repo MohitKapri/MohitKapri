@@ -7,10 +7,8 @@
 
 - 🌱 I’m currently learning Python
 - 💬 Ask me about: Coding, GitHub, and Tech
-- 📫 How to reach me: your_email@example.com
 - ⚡ Fun fact: I love coffee and coding late at night
 - 📫 Reach me at: **mohitkapri154@gmail.com**
-- 💡 Fun fact: I can spend hours making a chart look perfect — and love every second of it 📊☕
 
 ---
 
@@ -24,8 +22,6 @@
 ### 🚀 Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -37,8 +33,8 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohitKapri&show_icons=true&locale=en&theme=tokyonight" alt="USERNAME" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitKapri&layout=compact&theme=tokyonight" alt="USERNAME" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MohitKapri&show_icons=true&locale=en&theme=tokyonight" alt="MohitKapri" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitKapri&layout=compact&theme=tokyonight" alt="MohitKapri" />
 </p>
 
 ---
@@ -46,7 +42,7 @@
 ### 📈 Profile Views
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=MohitKapri&label=Profile%20views&color=0e75b6&style=flat" alt="USERNAME" />
+  <img src="https://komarev.com/ghpvc/?username=MohitKapri&label=Profile%20views&color=0e75b6&style=flat" alt="MohitKapri" />
 </p>
 
 ---
